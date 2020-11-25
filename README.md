@@ -23,7 +23,10 @@ pip install win10toast
 **Simple Use**
 
 	python jiofi_battery_notifier.py
+	
+**Check Once**
 
+	python jiofi_once.py
 **Auto Start at Boot**
 
 	Follow guidelines for your operating system for running python scripts at startup.

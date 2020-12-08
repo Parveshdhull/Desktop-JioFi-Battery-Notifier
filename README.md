@@ -31,6 +31,9 @@ pip install win10toast
 
 	Follow guidelines for your operating system for running python scripts at startup.
 
+## YouTube Tutorial
+https://www.youtube.com/watch?v=_FRg6Q0JLlk
+
 ## Troubleshooting
 ####  Gateway Url Wrong
 	Change default gateway Url of your JioFi
